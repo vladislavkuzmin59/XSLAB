@@ -1,0 +1,92 @@
+export default{
+    state: {
+        curses:[
+            {
+                background: '#0500FF',
+                color: 'white',
+                time: '30 уроков, примерно неделя',
+                best: 'flex',
+                bestBack: 'white',
+                bestColor: 'black',
+                bestLightning: 'black',
+                title: 'Mobile разработка',
+                sub: 'любой из подписок',
+                type: 'mobile',
+                level: 'easy',
+                range: 12,
+                subFilter: 'all',
+            },
+            {
+                background: 'red',
+                color: 'white',
+                time: '30 уроков, примерно неделя',
+                best: 'flex',
+                bestBack: 'white',
+                bestColor: 'black',
+                bestLightning: 'black',
+                title: 'Основы JS и разбор полетов',
+                sub: 'dark',
+                type: 'backend',
+                level: 'medium',
+                subFilter: 'dark',
+                range: 1,
+            },
+            {
+                background: 'pink',
+                color: 'white',
+                time: '30 уроков, примерно неделя',
+                best: 'flex',
+                bestBack: 'white',
+                bestColor: 'black',
+                bestLightning: 'black',
+                title: 'Основы IT-инфоструктуры',
+                sub: 'spotilight',
+                type: 'it-inf',
+                level: 'hard',
+                subFilter: 'spot',
+                range: 1,
+            },
+            {
+                background: 'purple',
+                color: 'white',
+                time: '30 уроков, примерно неделя',
+                best: 'flex',
+                bestBack: 'white',
+                bestColor: 'black',
+                bestLightning: 'black',
+                title: 'Основы анализа данных',
+                sub: 'sunlight',
+                type: 'data',
+                level: 'easy',
+                subFilter: 'sun',
+                range: 5,
+            },
+            {
+                background: 'black',
+                color: 'white',
+                time: '40 уроков, примерно неделя',
+                best: 'flex',
+                bestBack: 'white',
+                bestColor: 'black',
+                bestLightning: 'black',
+                title: 'Html и css',
+                sub: 'dark',
+                type: 'frontend',
+                level: 'medium',
+                subFilter: 'dark',
+                range: 6,
+            },
+        ],
+        filtres:[
+        {
+
+        }
+    ]
+    },
+    getters: {
+    },
+    mutations: {
+    },
+    actions: {
+    },
+}
