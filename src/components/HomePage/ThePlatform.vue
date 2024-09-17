@@ -1,7 +1,7 @@
 <template>
     <div class="platform">
         <div class="platform__gif">
-            <img src="@/assets/img/gif.gif" alt="">
+            <img src="@/assets/img/Ahegao_Belle_Delphine.gif" alt="">
             <ul>
                 <li><span>Промо-ролик о платформе</span></li>
             </ul>
